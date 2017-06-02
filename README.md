@@ -1,0 +1,1 @@
+ng-seed-webpack-aot
